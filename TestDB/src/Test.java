@@ -10,5 +10,4 @@ public class Test {
 		dao.insert(4, "shiro","012");
 
 	}
-
 }
